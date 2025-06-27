@@ -9,8 +9,5 @@ This project uses machine learning (Random Forest, KNN, XGBoost) to predict live
 - HTML/CSS for UI
 - Data visualization with seaborn & matplotlib
 
-## Status
-🚧 Work in progress. Will be updated with full code and UI by tomorrow.
-
 ## Dataset
 - Indian Liver Patient Dataset (CSV format)
